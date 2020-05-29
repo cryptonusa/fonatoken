@@ -1,0 +1,17 @@
+{
+  "name": "fonatoken",
+  "version": "1.0.0",
+  "description": "cryptocurrency Fortinusa",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andy Luke",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.0.1"
+  }
+}
