@@ -1873,7 +1873,7 @@
   },
   "networks": {},
   "schemaVersion": "3.2.0",
-  "updatedAt": "2020-06-16T02:57:44.642Z",
+  "updatedAt": "2020-06-16T23:41:52.789Z",
   "devdoc": {
     "details": "Collection of functions related to the address type",
     "methods": {}
